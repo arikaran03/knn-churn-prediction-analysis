@@ -4,7 +4,7 @@ This project uses the **K-Nearest Neighbors (KNN)** algorithm to analyze custome
 
 ## 📁 Project Structure
 
-- `KNN_Churn_Prediction.ipynb`: Main Jupyter notebook containing the entire workflow — from data preprocessing to model evaluation.
+- `chrun_prediction_model.ipynb`: Main Jupyter notebook containing the entire workflow — from data preprocessing to model evaluation.
 
 ## 📊 Dataset
 
